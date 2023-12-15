@@ -7,7 +7,7 @@ import { NavLink } from 'react-router-dom'
 
 function Footer() {
   return (
-    <div className='py-[50px] px-[162px] border-t border-gray-700 flex flex-col gap-[50px]'>
+    <div className='py-[50px] px-[120px] border-t border-gray-700 flex flex-col gap-[50px]'>
       <div className="flex items-center justify-between">
         <div className='w-[177px] h-[60px]'>
             <img src={logo} alt="" className='w-full h-full'/>
@@ -21,7 +21,7 @@ function Footer() {
             <NavLink className='flex justify-center items-center'>Careers</NavLink>
         </div>
         <div className="flex p-[14px] gap-4 text-white items-center border rounded-xl border-gray-700/50">
-            <p>Stay Connected</p>
+            <p className='whitespace-nowrap'>Stay Connected</p>
             <button className='p-4 rounded-xl border-x border-t bg-white/5 border-gray-700/50'><img src={icon} alt="" /></button>
             <button className='p-4 rounded-xl border-x border-t bg-white/5 border-gray-700/50'><img src={icon1} alt="" /></button>
             <button className='p-4 rounded-xl border-x border-t bg-white/5 border-gray-700/50'><img src={icon2} alt="" /></button>
