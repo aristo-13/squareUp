@@ -9,10 +9,10 @@ import zoom from '../assets/comLogos/zoom.svg'
 function Companies() {
     const comps = [adobe,amazon,slack,spotify,zapier,zoom]
   return (
-    <div className='w-full flex justify-between items-center py-10'>
+    <div className='w-full grid grid-cols-2 lg:flex lg:justify-between lg:items-center md:py-10'>
        {
         comps.map((comp)=>(
-            <img src={comp} alt="" className='px-4 w-[140px]'/>
+            <img src={comp} alt="" className='border border-white/5 lg:border-none py-2 px-4 w-full h-[100px] lg:h-auto lg:w-[140px]'/>
         ))
        }
     </div>
