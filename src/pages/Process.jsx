@@ -11,8 +11,8 @@ function Process() {
       <div className='pt-[80px] flex flex-col gap-10'>
            <div className=" px-4 md:px-[40px] flex flex-col gap-4 items-start">
                 <h1 className='text-4xl text-white font-semibold'>At SquareUp</h1>
-                <p className='font-normal text-[#e6e6e6] text-[16px]'>We follow a structured and collaborative process to ensure the successful delivery of exceptional digital products. Our process combines industry best practices, creative thinking, and a client-centric approach.</p>
-                <span className='px-3 py-2 rounded-lg bg-[#414040] text-lg font-normal text-white'>Here's an overview of our typical process:</span>
+                <p className='font-normal text-[#e6e6e6] text-sm md:text-[16px]'>We follow a structured and collaborative process to ensure the successful delivery of exceptional digital products. Our process combines industry best practices, creative thinking, and a client-centric approach.</p>
+                <span className='px-3 py-2 rounded-lg bg-[#414040] text-sm md:text-lg font-normal text-white'>Here's an overview of our typical process:</span>
            </div>
            
 

@@ -37,8 +37,8 @@ function Careers() {
       <div className='pt-[60px]'>
            <div className="md:w-[80%] p-4 md:p-[40px] flex flex-col gap-4 items-start">
                 <h1 className='text-2xl md:text-4xl text-white font-semibold'>Welcome to SquareUp, where talent meets opportunity!</h1>
-                <p className='font-normal text-[#e6e6e6] text-[16px]'>At SquareUp, we believe that the success of our agency lies in the talent, passion, and dedication of our team members. We are a digital product agency that thrives on innovation, creativity, and collaboration. If you're ready to make a difference and contribute to cutting-edge projects, we invite you to explore career opportunities with us.</p>
-                <span className='px-3 py-2 rounded-lg bg-[#414040] text-lg font-normal text-white'>Why Work at SquareUp?</span>
+                <p className='font-normal text-[#e6e6e6] text-sm lg:text-[16px]'>At SquareUp, we believe that the success of our agency lies in the talent, passion, and dedication of our team members. We are a digital product agency that thrives on innovation, creativity, and collaboration. If you're ready to make a difference and contribute to cutting-edge projects, we invite you to explore career opportunities with us.</p>
+                <span className='px-3 py-2 rounded-lg bg-[#414040] text-sm md:text-lg font-normal text-white'>Why Work at SquareUp?</span>
            </div>
 
            <div className='grid lg:grid-cols-2'>

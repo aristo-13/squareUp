@@ -25,7 +25,7 @@ function Home() {
             </div>
 
             <div className='w-full absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] flex flex-col gap-[50px] justify-center items-center'>
-                <h1 className='font-semibold p-2 text-lg md:text-2xl lg:text-[48px] leading-3 text-center text-white'>A Dgital Product Product Studio that will Work</h1>
+                <h1 className='font-semibold p-2 text-lg md:text-2xl lg:text-[48px] text-center text-white'>A Dgital Product Product Studio that will Work</h1>
                 <div className="w-[97%] md:w-auto border border-gray-700 bg-[#262626]/20 backdrop-blur rounded-md">
                   <p className='text-center md:flex md:items-center md:justify-center px-[2px] gap-1 md:px-[40px] py-[24px] text-gray-500'>
                     For <span className='md:px-[14px] md:whitespace-nowrap md:py-[12px] md:bg-gray-700/30 tmd:ext-white rounded-lg'>Startups</span> , <span className='md:px-[14px] whitespace-nowrap md:py-[12px] md:bg-gray-700/30  md:text-white rounded-lg'>Enterprise leaders</span>, <span className='md:px-[14px] whitespace-nowrap md:py-[12px] md:bg-gray-700/30  md:text-white rounded-lg'>Media Publishers</span> and <span className='md:px-[14px] whitespace-nowrap md:py-[12px] md:bg-gray-700/30  md:text-white rounded-lg'>Social Good</span>
